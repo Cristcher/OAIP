@@ -1,0 +1,25 @@
+﻿Сборка начата 17.09.2024 00:01:05.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\OneDrive\Рабочий стол\LAB4\Heart\Heart\Heart.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+         Создание каталога "C:\Users\User\OneDrive\Рабочий стол\LAB4\Heart\x64\Debug\".
+         Создание каталога "x64\Debug\Heart.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\Heart.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\Heart.tlog\unsuccessfulbuild".
+       ClCompile:
+         D:\VS\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt Heart.cpp
+         Heart.cpp
+       Link:
+         D:\VS\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\OneDrive\Рабочий стол\LAB4\Heart\x64\Debug\Heart.exe" /INCREMENTAL /ILK:"x64\Debug\Heart.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\User\OneDrive\Рабочий стол\LAB4\Heart\x64\Debug\Heart.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\OneDrive\Рабочий стол\LAB4\Heart\x64\Debug\Heart.lib" /MACHINE:X64 x64\Debug\Heart.obj
+         Heart.vcxproj -> C:\Users\User\OneDrive\Рабочий стол\LAB4\Heart\x64\Debug\Heart.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Heart.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Heart.tlog\Heart.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\OneDrive\Рабочий стол\LAB4\Heart\Heart\Heart.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.00
